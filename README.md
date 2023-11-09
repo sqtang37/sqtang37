@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 😄 I'm Sue!
+- 🔭 I’m currently working on data analysis and predictive modeling projects.
+- 🌱 I'm currently learning about machine learning and deep learning algorithms.
+- 👯 I'm looking to collaborate on data science and analytics projects.
+- 📫 You can reach me via email at [sshuqin.tang@gmail.com] or connect with me on [LinkedIn].
+- 💬 Let's chat about all things data!
+
 <!--
 **sqtang37/sqtang37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
