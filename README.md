@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 😄 I'm Sue!
+- 😄 I'm Sue, a third-year Math of Computation + Statistics and Data Science double major at UCLA.
 - 🔭 I’m currently working on data analysis and predictive modeling projects.
 - 🌱 I'm currently learning about machine learning and deep learning algorithms.
 - 👯 I'm looking to collaborate on data science and analytics projects.
