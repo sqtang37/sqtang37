@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on data analysis and predictive modeling projects.
 - 🌱 I'm currently learning about machine learning and deep learning algorithms.
 - 👯 I'm looking to collaborate on data science and analytics projects.
-- 📫 You can reach me via email at [sshuqin.tang@gmail.com] or connect with me on [LinkedIn].
+- 📫 You can reach me via email at sshuqin.tang@gmail.com or connect with me on LinkedIn.
 - 💬 Let's chat about all things data!
 
 <!--
