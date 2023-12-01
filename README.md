@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 - 😄 I'm Sue, a third-year Math of Computation + Statistics and Data Science double major at UCLA.
-- 🔭 I’m currently working on data analysis and predictive modeling projects.
-- 🌱 I'm currently learning about machine learning and deep learning algorithms.
+- 🔭 I’m currently working on some data analytics and machine learning projects.
+- 🌱 I'm currently learning about deep learning algorithms.
 - 👯 I'm looking to collaborate on data science and analytics projects.
-- 📫 You can reach me via email at sshuqin.tang@gmail.com or connect with me on LinkedIn.
+- 📫 You can reach me via email at sshuqin.tang@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/shuqin-tang/).
 - 💬 Let's chat about all things data!
 
 <!--
